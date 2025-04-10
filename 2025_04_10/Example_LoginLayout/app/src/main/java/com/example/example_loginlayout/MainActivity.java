@@ -45,7 +45,7 @@ public class MainActivity extends AppCompatActivity {
         render  = findViewById(R.id.textViewRender);
 
         imgView = findViewById(R.id.imageView);
-        imgView.setImageResource(com.google.android.material.R.drawable.abc_ic_voice_search_api_material);
+        imgView.setImageResource(R.drawable.company);
     }
 
     // 일단 둘 다 같은 기능으로 설정
